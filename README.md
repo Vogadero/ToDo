@@ -26,8 +26,7 @@
 | 清除已完成任务     |
 
 ## 2. 截图⭐
-
-#### ![](https://github.com/Vogadero/ToDo/tree/master/public/todo/assets/image/ToDo.jpeg)
+![](public/todo/assets/image/ToDo.jpeg)
 
 ## 3. 项目架构🍽️
 
