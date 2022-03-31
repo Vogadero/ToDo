@@ -27,7 +27,7 @@
 
 ## 2. 截图⭐
 
-#### ![](public\todo\assets\image\ToDo.jpeg)
+#### ![](publi/todo/assets/image/ToDo.jpeg)
 
 ## 3. 项目架构🍽️
 
