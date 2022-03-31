@@ -27,7 +27,7 @@
 
 ## 2. 截图⭐
 
-#### ![](publi/todo/assets/image/ToDo.jpeg)
+#### ![](https://github.com/Vogadero/ToDo/tree/master/public/todo/assets/image/ToDo.jpeg)
 
 ## 3. 项目架构🍽️
 
