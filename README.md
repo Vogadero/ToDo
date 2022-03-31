@@ -27,7 +27,7 @@
 
 ## 2. 截图⭐
 
-#### ![](C:\Users\Administrator\Desktop\项目\ToDo\server\public\todo\assets\image\ToDo.jpeg)
+#### ![](public\todo\assets\image\ToDo.jpeg)
 
 ## 3. 项目架构🍽️
 
